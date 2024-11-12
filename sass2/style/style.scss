@@ -1,0 +1,15 @@
+
+$fnt-fml: "Roboto", serif;
+
+
+ul{
+    li{
+        list-style: none;
+        font-family: $fnt-fml;
+        color: $txt-color;
+    }
+}
+body{
+    background-color: $bg-color;
+}
+

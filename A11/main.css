@@ -1,0 +1,19 @@
+div{
+background-image:url("https://images.squarespace-cdn.com/content/v1/61c4da8eb1b30a201b9669f2/e2e0e62f-0064-4f86-b9d8-5a55cb7110ca/Korembi-January-2024.jpg") ;
+width: 100VW;
+height: 100vh;
+opacity: 0.7;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+button{
+    width: 100px;
+    color: white;
+    background-color: orange;
+}
